@@ -33,5 +33,9 @@ ion-icon{
  .facebook{
     color: blue;
 } 
+.Whatsapp,.call{
+color: green;
+}
+.mail,.hom{color: rgb(39, 37, 37);}
 
 .logo img{ width: 90%; height: 80%; border-radius: 100%; background-color: rgb(205, 163, 101);} 
